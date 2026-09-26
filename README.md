@@ -1,41 +1,41 @@
 <h1 align="center">Hi, I'm Javier Cornejo</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%C2%B7+TypeScript+%C2%B7+Next.js;Java+%C2%B7+Spring+Boot+%C2%B7+Node.js;Building+modern+web+applications"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Next.js;Java+%7C+Spring+Boot+%7C+Node.js;Building+clean+and+useful+digital+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Full Stack Developer focused on building modern, scalable and user-friendly web applications.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/cornejolealjavier/">LinkedIn</a>
-  ·
-  <a href="https://ocaive.com">OCAIVE</a>
+  Full Stack Developer focused on building modern, maintainable and user-friendly web applications.
 </p>
 
 ---
 
 ### About me
 
-- Full Stack Developer working across frontend and backend.
-- Experience with React, Next.js, Java and Spring Boot in professional environments.
-- Building products from scratch as well as maintaining and evolving existing applications.
-- Interested in clean architecture, performance, UX and solving real-world problems.
+- Full Stack Developer with experience in frontend and backend development
+- Worked with React and Java/Spring Boot on internal applications at Baleària
+- Built and maintained web projects with Next.js, TypeScript, PHP and WordPress
+- Interested in clean code, performance, UX and product development
+- Based in Spain · Open to remote opportunities
 
 ### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,java,spring,nodejs,php,laravel,tailwind,postgres,mysql,docker,git,github&perline=8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,java,spring,nodejs,php,laravel,tailwind,postgres,mysql,docker,git,github" />
 </p>
 
-### Featured Project
+### Featured work
 
 #### OCAIVE
-
-Website developed from scratch using Next.js, TypeScript and Tailwind CSS, with GSAP animations, responsive design and email integration with Resend.
+Built from scratch with Next.js, TypeScript and Tailwind CSS, including GSAP animations, responsive UI, form handling and email integration with Resend.
 
 → https://ocaive.com
+
+#### Baleària
+Worked on internal applications and REST APIs using React, Java and Spring Boot, including feature development, maintenance, debugging and refactoring.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cornejolealjavier/">LinkedIn</a>
+  ·
+  <a href="https://github.com/JavierCornejoLeal">GitHub</a>
+</p>
