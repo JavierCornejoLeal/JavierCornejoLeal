@@ -24,15 +24,27 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,java,spring,nodejs,php,laravel,tailwind,postgres,mysql,docker,git,github" />
 </p>
 
-### Featured work
+### Featured Work
 
 #### OCAIVE
-Built from scratch with Next.js, TypeScript and Tailwind CSS, including GSAP animations, responsive UI, form handling and email integration with Resend.
+
+Built from scratch with Next.js, TypeScript and Tailwind CSS, creating a responsive and maintainable web experience with GSAP animations, form handling and automated email delivery using Resend.
 
 → https://ocaive.com
 
-#### Baleària
-Worked on internal applications and REST APIs using React, Java and Spring Boot, including feature development, maintenance, debugging and refactoring.
+#### HUB CULTURA CABANYAL
+
+Maintenance and evolution of a cultural platform built with WordPress. Improved the backend and database, redesigned and updated frontend components, fixed bugs and implemented functional improvements focused on performance, stability and user experience.
+
+→ https://culturacabanyal.com/es/inici-espanol/
+
+#### EDUARDO CALABUIG
+
+Developed a digital portfolio with React alongside a custom CRM built with Next.js and Supabase for managing website content and data. Implemented a CI/CD workflow with GitHub Actions to automate development and deployment processes.
+
+→ https://eduardocalabuig.com
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cornejolealjavier/">LinkedIn</a>
