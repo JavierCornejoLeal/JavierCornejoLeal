@@ -30,19 +30,19 @@
 
 Built from scratch with Next.js, TypeScript and Tailwind CSS, creating a responsive and maintainable web experience with GSAP animations, form handling and automated email delivery using Resend.
 
-→ https://ocaive.com
+→ [Visit OCAIVE](https://ocaive.com)
 
 #### HUB CULTURA CABANYAL
 
 Maintenance and evolution of a cultural platform built with WordPress. Improved the backend and database, redesigned and updated frontend components, fixed bugs and implemented functional improvements focused on performance, stability and user experience.
 
-→ https://culturacabanyal.com/es/inici-espanol/
+→ [Visit Hub Cultura Cabanyal](https://culturacabanyal.com/es/inici-espanol/)
 
 #### EDUARDO CALABUIG
 
 Developed a digital portfolio with React alongside a custom CRM built with Next.js and Supabase for managing website content and data. Implemented a CI/CD workflow with GitHub Actions to automate development and deployment processes.
 
-→ https://eduardocalabuig.com
+→ [Visit Eduardo Calabuig](https://eduardocalabuig.com)
 
 ---
 
