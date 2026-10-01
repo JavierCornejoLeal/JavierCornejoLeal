@@ -21,7 +21,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,java,spring,nodejs,php,laravel,tailwind,postgres,mysql,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,java,spring,nodejs,php,laravel,tailwind,postgres,mysql,docker,git,github" alt="React, Next.js, TypeScript, JavaScript, Java, Spring, Node.js, PHP, Laravel, Tailwind CSS, PostgreSQL, MySQL, Docker, Git and GitHub" />
 </p>
 
 ### Featured Work
