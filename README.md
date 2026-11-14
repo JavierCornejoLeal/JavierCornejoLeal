@@ -14,7 +14,7 @@
 
 ---
 
-### 🌐 My portfolio
+### My portfolio
 
 <table>
   <tr>
@@ -26,13 +26,13 @@
     </td>
     <td width="40%" align="center">
       <a href="https://javiercornejo.vercel.app/">
-        <img src="https://skillicons.dev/icons?i=astro,react,ts,threejs,docker,vercel&perline=3" alt="Astro, React, TypeScript, WebGL, Docker, Vercel" />
+        <img src="https://skillicons.dev/icons?i=astro,react,ts,githubactions,docker,vercel&perline=3" alt="Astro, React, TypeScript, GitHub Actions, Docker, Vercel" />
       </a>
     </td>
   </tr>
 </table>
 
-### 👋 About me
+### About me
 
 - Full Stack Developer with experience in frontend and backend development
 - Worked with React and Java/Spring Boot on internal applications at Baleària
@@ -40,13 +40,32 @@
 - Interested in clean code, performance, UX, motion and product development
 - Based in Spain · Open to remote opportunities
 
-### 🧰 Tech Stack
+### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,java,spring,nodejs,php,laravel,tailwind,postgres,mysql,supabase,docker,git,github&perline=9" alt="React, Next.js, Astro, TypeScript, JavaScript, Java, Spring, Node.js, PHP, Laravel, Tailwind CSS, PostgreSQL, MySQL, Supabase, Docker, Git and GitHub" />
-</p>
+<table>
+  <tr>
+    <td width="22%"><b>Frontend</b></td>
+    <td><img height="56" src="https://skillicons.dev/icons?perline=12&i=react,nextjs,astro,ts,js,tailwind,bootstrap" alt="React, Next.js, Astro, TypeScript, JavaScript, Tailwind CSS, Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td width="22%"><b>UX/UI &amp; Motion</b><br /><sub>GSAP · Motion · WebGL shaders</sub></td>
+    <td><img height="56" src="https://skillicons.dev/icons?perline=12&i=figma" alt="Figma" /></td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Backend</b><br /><sub>REST APIs</sub></td>
+    <td><img height="56" src="https://skillicons.dev/icons?perline=12&i=java,spring,nodejs,php,laravel" alt="Java, Spring Boot, Node.js, PHP, Laravel" /></td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Data</b><br /><sub>MariaDB</sub></td>
+    <td><img height="56" src="https://skillicons.dev/icons?perline=12&i=postgres,mysql,supabase" alt="PostgreSQL, MySQL, Supabase" /></td>
+  </tr>
+  <tr>
+    <td width="22%"><b>DevOps &amp; Delivery</b><br /><sub>Playwright</sub></td>
+    <td><img height="56" src="https://skillicons.dev/icons?perline=12&i=git,github,githubactions,docker,vercel" alt="Git, GitHub, GitHub Actions, Docker, Vercel" /></td>
+  </tr>
+</table>
 
-### 🚀 Featured Work
+### Featured Work
 
 <details open>
 <summary><b>OCAIVE</b> · Next.js · TypeScript · Tailwind CSS · GSAP · Resend</summary>
@@ -75,7 +94,7 @@ Developed a digital portfolio with React alongside a custom CRM built with Next.
 → [Visit Eduardo Calabuig](https://eduardocalabuig.com)
 </details>
 
-### 🐍 Activity
+### Activity
 
 <p align="center">
   <picture>
